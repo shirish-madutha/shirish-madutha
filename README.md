@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shirish-madutha
-- 👀 I’m interested in Data Analyst and  Data Engineer
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in Data Science and ML Engineer
+- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me +91 9579677311 
 
